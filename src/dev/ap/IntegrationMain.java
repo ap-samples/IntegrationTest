@@ -1,7 +1,5 @@
 package dev.ap;
 
-import java.util.Random;
-
 public class IntegrationMain {
 	private static final int THREAD_COUNT = 5;
 	private static int nAccepted = 0;
